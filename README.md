@@ -17,7 +17,7 @@ The goal of this project is to explore and understand income patterns across a d
 - NumPy
 - Matplotlib
 - Seaborn
-- Jupyter Notebook (if used in the workflow)
+- Jupyter Notebook
 
 ## Project Process
 
